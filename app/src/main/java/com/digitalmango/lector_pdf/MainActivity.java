@@ -1,4 +1,4 @@
-package com.digitalmango.materialdesign;
+package com.digitalmango.lector_pdf;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

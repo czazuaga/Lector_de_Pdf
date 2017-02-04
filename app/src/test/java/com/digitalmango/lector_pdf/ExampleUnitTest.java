@@ -1,4 +1,4 @@
-package com.digitalmango.materialdesign;
+package com.digitalmango.lector_pdf;
 
 import org.junit.Test;
 

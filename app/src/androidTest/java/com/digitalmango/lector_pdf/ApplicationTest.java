@@ -1,4 +1,4 @@
-package com.digitalmango.materialdesign;
+package com.digitalmango.lector_pdf;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
