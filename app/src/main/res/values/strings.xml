@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Material Design</string>
+    <string name="app_name">Lector de PDF</string>
     <string name="titulo">Descripción</string>
     <string name="atras">Atrás</string>
     <string name="siguiente">Siguiente</string>
