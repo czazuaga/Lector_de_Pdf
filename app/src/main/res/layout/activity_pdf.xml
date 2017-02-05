@@ -12,15 +12,15 @@
         android:layout_weight="1"
         android:elevation="5dp"
         >
-        <TextView
+
+        <com.github.barteksc.pdfviewer.PDFView
+            android:id="@+id/pdfView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
             android:padding="20dp"
-            android:textSize="18sp"
             android:layout_alignParentTop="true"
-            android:layout_gravity="center_horizontal"
-            />
+            android:layout_gravity="center_horizontal"/>
+
     </ScrollView>
 
 

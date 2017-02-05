@@ -3,4 +3,6 @@
     <string name="titulo">Descripción</string>
     <string name="atras">Atrás</string>
     <string name="siguiente">Siguiente</string>
+    <string name="toast_pick_file_error">Error al cargar el archivo</string>
+    <string name="buscar_archivo">Buscar Archivo</string>
 </resources>
